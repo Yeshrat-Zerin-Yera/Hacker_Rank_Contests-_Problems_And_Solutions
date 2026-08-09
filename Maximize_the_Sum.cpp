@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/contests/problemset-batch-9-a-part-2-after-ds/challenges
 #include <cmath>
 #include <cstdio>
 #include <vector>
